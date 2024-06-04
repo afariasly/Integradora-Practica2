@@ -20,3 +20,29 @@ Si desea marcar una separacióin más visual de contenidos podemos utilizarlos i
 
 Ejemplo:
 ---
+### 3. Parrafos (PARAGRAPHS)
+Son utilizados para presentar grandes secciones de texto que describen detalladamente las secciones de la documentación del proyecto.
+
+Ejemplo:
+Éste texto pertenece al parrafo 1 Éste texto pertenece al parrafo 1 Éste texto pertenece al parrafo 1 Éste texto pertenece al parrafo 1 Éste texto pertenece al parrafo 1 Éste texto pertenece al parrafo 1 Éste texto pertenece al parrafo 1 Éste texto pertenece al parrafo 1 Éste texto pertenece al parrafo 1
+
+Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2
+
+Lo que en una página utilizariamos usando la etiqueta < p >.
+
+También podemos aplicafr estilos básicos de alineación :
+
+Éste parrafo está alineado a la izquiera por defecto Éste parrafo está alineado a la izquiera por defecto Éste parrafo está alineado a la izquiera por defectoÉste parrafo está alineado a la izquiera por defecto Éste parrafo está alineado a la izquiera por defectoÉste parrafo está alineado a la izquiera por defectoÉste parrafo está alineado a la izquiera por defectoÉste parrafo está alineado a la izquiera por defectoÉste parrafo está alineado a la izquiera por defecto Éste parrafo está alineado a la izquiera por defecto Éste parrafo está alineado a la izquiera por defecto
+
+<p align="rigth">
+Éste párrafo está alineado a la derecha utilizando la propiedad de alineación Éste párrafo está alineado a la derecha utilizando la propiedad de alineación Éste párrafo está alineado a la derecha utilizando la propiedad de alineación Éste párrafo está alineado a la derecha utilizando la propiedad de alineación Éste párrafo está alineado a la derecha utilizando la propiedad de alineaciónÉste párrafo está alineado a la derecha utilizando la propiedad de alineación Éste párrafo está alineado a la derecha utilizando la propiedad de alineación Éste párrafo está alineado a la derecha utilizando la propiedad de alineación 
+</p>
+
+<p align="center">
+Éste parrado está centrado utilizando la propiedad den alineación Éste parrado está centrado utilizando la propiedad den alineación Éste parrado está centrado utilizando la propiedad den alineación Éste parrado está centrado utilizando la propiedad den alineación Éste parrado está centrado utilizando la propiedad den alineación Éste parrado está centrado utilizando la propiedad den alineaciónÉste parrado está centrado utilizando la propiedad den alineaciónÉste parrado está centrado utilizando la propiedad den alineaciónÉste parrado está centrado utilizando la propiedad den alineaciónÉste parrado está centrado utilizando la propiedad den alineación
+</p>
+
+<p align="justify">
+Éste párrafo estará justificado utilizando la propiedad de alineación Éste párrafo estará justificado utilizando la propiedad de alineaciónÉste párrafo estará justificado utilizando la propiedad de alineación Éste párrafo estará justificado utilizando la propiedad de alineación Éste párrafo estará justificado utilizando la propiedad de alineaciónÉste párrafo estará justificado utilizando la propiedad de alineaciónÉste párrafo estará justificado utilizando la propiedad de alineaciónÉste párrafo estará justificado utilizando la propiedad de alineaciónÉste párrafo estará justificado utilizando la propiedad de alineaciónÉste párrafo estará justificado utilizando la propiedad de alineación
+</p>
+
