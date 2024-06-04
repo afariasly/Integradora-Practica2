@@ -15,4 +15,8 @@ Ejemplo:
 ##### Encabezado nivel 5
 ###### Encabezado nivel 6
 
-Creacion de linea de texto para crear un commit changes...
+## 2. Separadores (SEPARATORS) - Práctica 03
+Si desea marcar una separacióin más visual de contenidos podemos utilizarlos indicando tres carácteres de "-" continuos, en el maquetado
+
+Ejemplo:
+---
