@@ -52,3 +52,37 @@ PARRAFO c) align justify
 Éste párrafo estará justificado utilizando la propiedad de alineación Éste párrafo estará justificado utilizando la propiedad de alineaciónÉste párrafo estará justificado utilizando la propiedad de alineación Éste párrafo estará justificado utilizando la propiedad de alineación Éste párrafo estará justificado utilizando la propiedad de alineaciónÉste párrafo estará justificado utilizando la propiedad de alineaciónÉste párrafo estará justificado utilizando la propiedad de alineaciónÉste párrafo estará justificado utilizando la propiedad de alineaciónÉste párrafo estará justificado utilizando la propiedad de alineaciónÉste párrafo estará justificado utilizando la propiedad de alineación
 </p>
 
+### 4. Texto Enfatizado (BOLD, ITALIC, BOLD/ITALIC)
+
+Si el texto que deseamos enfatizar se encuentra en un párrafo, podemos utilizar algunos trucos para ubicarlos en la documentación
+
+##### Texto en Negrita (BOLD)
+
+Para poder poner el texto en negrita, este deberá ser encerrado entre dobles **
+
+Ejemplo:
+
+ Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto
+
+ ##### Texto en Cursiva (ITALIC)
+
+Algunas veces es necesario resaltar algunas secciones o textos en cursiva para que el lector detecte el texto importante, dentro del maquetado con el estándar Markdown lo podemos realizar ubicando el texto entre * (asteriscos)
+
+**Ejemplo:**
+
+Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto
+
+##### Texto en Negrita y Cursiva (BOLD & ITALIC)
+
+De igual manera podemos unir ambos estilos **Negrita** y  *Cursiva* para realizar los textos que consideremos importantes dentro de la documentación de nuestros proyectos de software, utilizando un triple * (asterisco)
+
+Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto
+
+##### Subrayado (UNDERLINE)
+
+Algunas veces necesitaremos subraya texto dentro de la documentación, para ello, si bien Markdown no tiene un atajo o codificación rapida, podemos utilizar el estilo que usa el estándar de HTML usando el tag <u>
+
+**Ejemplo:**
+Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto
+
+
