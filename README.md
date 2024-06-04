@@ -34,13 +34,19 @@ También podemos aplicafr estilos básicos de alineación :
 
 Éste parrafo está alineado a la izquiera por defecto Éste parrafo está alineado a la izquiera por defecto Éste parrafo está alineado a la izquiera por defectoÉste parrafo está alineado a la izquiera por defecto Éste parrafo está alineado a la izquiera por defectoÉste parrafo está alineado a la izquiera por defectoÉste parrafo está alineado a la izquiera por defectoÉste parrafo está alineado a la izquiera por defectoÉste parrafo está alineado a la izquiera por defecto Éste parrafo está alineado a la izquiera por defecto Éste parrafo está alineado a la izquiera por defecto
 
+PARRAFO a) align rigth
+
 <p align="rigth">
 Éste párrafo está alineado a la derecha utilizando la propiedad de alineación Éste párrafo está alineado a la derecha utilizando la propiedad de alineación Éste párrafo está alineado a la derecha utilizando la propiedad de alineación Éste párrafo está alineado a la derecha utilizando la propiedad de alineación Éste párrafo está alineado a la derecha utilizando la propiedad de alineaciónÉste párrafo está alineado a la derecha utilizando la propiedad de alineación Éste párrafo está alineado a la derecha utilizando la propiedad de alineación Éste párrafo está alineado a la derecha utilizando la propiedad de alineación 
 </p>
 
+PARRAFO b) align center
+
 <p align="center">
 Éste parrado está centrado utilizando la propiedad den alineación Éste parrado está centrado utilizando la propiedad den alineación Éste parrado está centrado utilizando la propiedad den alineación Éste parrado está centrado utilizando la propiedad den alineación Éste parrado está centrado utilizando la propiedad den alineación Éste parrado está centrado utilizando la propiedad den alineaciónÉste parrado está centrado utilizando la propiedad den alineaciónÉste parrado está centrado utilizando la propiedad den alineaciónÉste parrado está centrado utilizando la propiedad den alineaciónÉste parrado está centrado utilizando la propiedad den alineación
 </p>
+
+PARRAFO c) align justify
 
 <p align="justify">
 Éste párrafo estará justificado utilizando la propiedad de alineación Éste párrafo estará justificado utilizando la propiedad de alineaciónÉste párrafo estará justificado utilizando la propiedad de alineación Éste párrafo estará justificado utilizando la propiedad de alineación Éste párrafo estará justificado utilizando la propiedad de alineaciónÉste párrafo estará justificado utilizando la propiedad de alineaciónÉste párrafo estará justificado utilizando la propiedad de alineaciónÉste párrafo estará justificado utilizando la propiedad de alineaciónÉste párrafo estará justificado utilizando la propiedad de alineaciónÉste párrafo estará justificado utilizando la propiedad de alineación
