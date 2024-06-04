@@ -18,12 +18,13 @@ Ejemplo:
 ## 2. Separadores (SEPARATORS) - Práctica 03
 Si desea marcar una separacióin más visual de contenidos podemos utilizarlos indicando tres carácteres de "-" continuos, en el maquetado
 
-Ejemplo:
+**Ejemplo:**
 ---
 ### 3. Parrafos (PARAGRAPHS)
 Son utilizados para presentar grandes secciones de texto que describen detalladamente las secciones de la documentación del proyecto.
 
-Ejemplo:
+**Ejemplo:**
+
 Éste texto pertenece al parrafo 1 Éste texto pertenece al parrafo 1 Éste texto pertenece al parrafo 1 Éste texto pertenece al parrafo 1 Éste texto pertenece al parrafo 1 Éste texto pertenece al parrafo 1 Éste texto pertenece al parrafo 1 Éste texto pertenece al parrafo 1 Éste texto pertenece al parrafo 1
 
 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2 Éste texto pertenece al parrafo 2
@@ -60,7 +61,7 @@ Si el texto que deseamos enfatizar se encuentra en un párrafo, podemos utilizar
 
 Para poder poner el texto en negrita, este deberá ser encerrado entre dobles **
 
-Ejemplo:
+**Ejemplo:**
 
  Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto **Texto en negrita**
 
@@ -80,9 +81,9 @@ Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Te
 
 ##### Subrayado (UNDERLINE)
 
-Algunas veces necesitaremos subraya texto dentro de la documentación, para ello, si bien Markdown no tiene un atajo o codificación rapida, podemos utilizar el estilo que usa el estándar de HTML usando el tag <u>
+Algunas veces necesitaremos subraya texto dentro de la documentación, para ello, si bien Markdown no tiene un atajo o codificación rapida, podemos utilizar el estilo que usa el estándar de HTML usando el tag <ins>
 
 **Ejemplo:**
-Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto <u>Texto subrayado</u>
+Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto <ins>Texto subrayado</ins>
 
 
