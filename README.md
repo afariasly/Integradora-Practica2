@@ -128,3 +128,17 @@ Si es nuestra documentación necesitamos incluir información en modo de lista, 
 5. Definir si incluye un archivo de descripción llamado: *"readme.md"*
 6. Definir si habrá exlusiones de archivo a través del archivo: *".gitgnore"*
 7. Guardar cambios.
+
+### 7. Ligas (Hipervinculos)
+
+Las ligas son utilizadas para vincular elementos o referencias del proyecto denteo del mismo repositorio o fuera de el. Y se maquetan utilizando los corchetes [], inmediatamente despues pondrémos la liga de referencia entre paréntesis ()
+
+**EJEMPLO:** Mi buscador favorito es [Google.](https://www.google.com/)
+
+Pero si deseamos poner solo las ligas directas o un correo electrónico podemos utilizar los simbolos <>.
+
+**EJEMPLO**
+
+Documentación creada por: **Al Farias Leyva**
+[fariasalf70@gmail.com](gmail.com)
+http://www.utxicotepec.edu.mx
