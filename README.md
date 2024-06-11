@@ -86,4 +86,28 @@ Algunas veces necesitaremos subraya texto dentro de la documentación, para ello
 **Ejemplo:**
 Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto <ins>Texto subrayado</ins>
 
+### 5. Cuadros de código o reseñas (BLOCKQUOTES)
+Estos elementos son utilizados para resaltar instrucciones especíicas para la instalación, configuracion y/o inicialización o mostras secciones de código fuente. Se maqueta iniciando el txto con un simbolo de mayor que (/>)
 
+**EJEMPLO:**
+
+Para listar las carpetas y archivos desde una terminal de sistemas operativos Windows debemos ingresar el comando:
+
+> C:/dir
+
+Despues oprimimos la tecla "Enter".
+También podemos ingresar textos multilinea.
+
+**Ejemplo:**
+Aqui se ingresan un conjunto de instrucciones para explicar al usuario, como instalar el software que hemos diseñado.
+
+Y si deseamos incluir viñetas para enlistar pasos podemos utilizar el caracter - dentro del texto a documentar
+
+**EJEMPLO: Pasos para Instalar la Base de Datos:**
+
+> - Descargar MySQL Server del Sitio Oficial.
+> - Instalar el Sistema Gestor de Base de Datos, definiendo el puerto y contraseña para el usuario *root*.
+> - Descargamos el archivo de respaldo de la base de datos (sql).
+> - Restauramos la base de datos usando el comando * mysql *
+
+> C:/Program Files/MySQL Server 8.0/bin/mysql -u root -p password < respaldo.sql
