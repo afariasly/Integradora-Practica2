@@ -140,5 +140,5 @@ Pero si deseamos poner solo las ligas directas o un correo electrónico podemos 
 **EJEMPLO**
 
 Documentación creada por: **Al Farias Leyva**
-[fariasalf70@gmail.com](gmail.com)
+<fariasalf70@gmail.com>
 http://www.utxicotepec.edu.mx
