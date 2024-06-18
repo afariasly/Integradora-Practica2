@@ -168,6 +168,35 @@ En caso de necesitar la fusión de celdas en columas usaremos la propiedad *cosp
 |              |Fila 4 Celda 2|Fila 4 Celda 3|Fila 4 Celda 4|
 |              |Fila 5 Celda 2|Fila 5 Celda 3|Fila 5 Celda 4|
 |Fila 5 Celda 1|Fila 5 Celda 2|Fila 5 Celda 3|Fila 5 Celda 4|
+
+<table border="1">
+    <tr>
+        <th>Nombre</th>
+        <th>Edad</th>
+        <th rowspan="2">Ciudad</th>
+        <th colspan="2">Contacto</th>
+    </tr>
+    <tr>
+        <th colspan="2">Información Adicional</th>
+        <th>Teléfono</th>
+        <th>Email</th>
+    </tr>
+    <tr>
+        <td>Al Farias</td>
+        <td>22</td>
+        <td>Madrid</td>
+        <td>123456789</td>
+        <td>fariasal@example.com</td>
+    </tr>
+    <tr>
+        <td>Jose Garcia</td>
+        <td>21</td>
+        <td>Barcelona</td>
+        <td>987654321</td>
+        <td>josepepeyo@example.com</td>
+    </tr>
+</table>
+
 ### 9. Imagenes
 
 
