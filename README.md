@@ -160,14 +160,14 @@ Si la documentación lo requiere podemos presentar información en formatos de t
 En caso de necesitar la fusión de celdas en columas usaremos la propiedad *cospan* del tag \<td> y en el caso de necesitar la fusión de filas utilizaremos la propiedad *roswpan*.
 **EJEMPLO:**
 
- | Encabezado 1   | Encabezado 2     | Encabezado 3     | Encabezado 4   |
-|----------------|------------------|------------------|----------------|
-| Fila 1 Celda 1 | Fila 1 Celda 2   | Fila 1 Celda 3   | Fila 1 Celda 4 |
-| Fila 2 Celda 1 <td colspan> Fila 2 Celda 2 | Fila 2 Celda 3 |
-| Fila 3 Celda 1 | Fila 3 Celda 2   | Fila 3 Celda 3   | Fila 3 Celda 4 |
-|                | Fila 4 celda 2   | Fila 4 Celda 3   | Fila 4 Celda 4 |
-|                | Fila 4 Celda 2   | Fila 5 Celda 3   | Fila 5 Celda 4 |
-| Fila 6 Celda 1 | Fila 6 Celda 2   | Fila 6 Celda 3   | Fila 6 Celda 4 |
+|Encabezado 1|Encabezado 2| Encabezado 3| Encabezado 4|
+|------------|------------|-------------|-------------|
+|Fila 1 Celda 1|⁮Fila 1 Celda 2|Fila 1  Celda 3|Fila 1  Celda 4|
+|Fila 2 Celda 1|Fila 2 Celda 2|               |Fila 2  Celda 4|
+|Fila 3 Celda 1|Fila 3 Celda 2|Fila 3  Celda 3|Fila 3  Celda 4|
+|            |Fila 4 Celda 2|Fila 4  Celda 3|Fila 4  Celda 4|  
+|            |Fila 5 Celda 2|Fila 5  Celda 3|Fila 5  Celda 4|
+|Fila 6 Celda 1|Fila 6 Celda 2|Fila 6  Celda 3|Fila 6  Celda 4|
 
 <table border="1">
     <tr>
