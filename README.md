@@ -184,14 +184,14 @@ En caso de necesitar la fusión de celdas en columas usaremos la propiedad *cosp
     <tr>
         <td>Al Farias</td>
         <td>22</td>
-        <td>Madrid</td>
+        <td>Necaxa</td>
         <td>123456789</td>
         <td>fariasal@example.com</td>
     </tr>
     <tr>
         <td>Jose Garcia</td>
         <td>21</td>
-        <td>Barcelona</td>
+        <td>Xicotepec</td>
         <td>987654321</td>
         <td>josepepeyo@example.com</td>
     </tr>
