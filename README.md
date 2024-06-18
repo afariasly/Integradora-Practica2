@@ -169,4 +169,8 @@ En caso de necesitar la fusión de celdas en columas usaremos la propiedad *cosp
 |                | Fila 4 Celda 2 | Fila 4 Celda 3 | Fila 4 Celda 4 |
 | Fila 5 Celda 1 | Fila 5 Celda 2 | Fila 5 Celda 3 | Fila 5 Celda 4 |
 
+### 9. Imagenes
+
+
+![](https://github.com/fariasdsm/Integradora-Practica2/blob/main/IMG_8548.jpeg)
 
