@@ -157,44 +157,58 @@ Si la documentación lo requiere podemos presentar información en formatos de t
 | Fila 5 Celda 1 | Fila 5 Celda 2 | Fila 5 Celda 3 | Fila 5 Celda 4 |
 | Fila 6 Celda 1 | Fila 6 Celda 2 | Fila 6 Celda 3 | Fila 6 Celda 4 |
 
-En caso de necesitar la fusión de celdas en columas usaremos la propiedad *cospan* del tag \<td> y en el caso de necesitar la fusión de filas utilizaremos la propiedad *roswpan*.
-**EJEMPLO:**
+En caso de necesitar la fusión de celdas en columas usaremos la propiedad *cospan* del tag \<td> y en el caso de necesitar la fusión de filas utilizaremos la propiedad *roswpan*
 
-|Encabezado 1|Encabezado 2| Encabezado 3| Encabezado 4|
-|------------|------------|-------------|-------------|
-|Fila 1 Celda 1|⁮Fila 1 Celda 2|Fila 1  Celda 3|Fila 1  Celda 4|
-|Fila 2 Celda 1|Fila 2 Celda 2|               |Fila 2  Celda 4|
-|Fila 3 Celda 1|Fila 3 Celda 2|Fila 3  Celda 3|Fila 3  Celda 4|
-|            |Fila 4 Celda 2|Fila 4  Celda 3|Fila 4  Celda 4|  
-|            |Fila 5 Celda 2|Fila 5  Celda 3|Fila 5  Celda 4|
-|Fila 6 Celda 1|Fila 6 Celda 2|Fila 6  Celda 3|Fila 6  Celda 4|
+Dado que en el ejemplo pasado usando solo markdown no se puede realizar la funcion de las filas debemos utilizar el estandar de HTML, usando los tags: \<th> para los encabezados, <tr> para las filas y para las celdas, y en ellos utilizar la propiedad de *colspan* y *rowspan*
 
-<table border="1">
-    <tr>
-        <th>Nombre</th>
-        <th>Edad</th>
-        <th rowspan="2">Ciudad</th>
-        <th colspan="2">Contacto</th>
-    </tr>
-    <tr>
-        <th colspan="2">Información Adicional</th>
-        <th>Teléfono</th>
-        <th>Email</th>
-    </tr>
-    <tr>
-        <td>Al Farias</td>
-        <td>22</td>
-        <td>Necaxa</td>
-        <td>123456789</td>
-        <td>fariasal@example.com</td>
-    </tr>
-    <tr>
-        <td>Jose Garcia</td>
-        <td>21</td>
-        <td>Xicotepec</td>
-        <td>987654321</td>
-        <td>josepepeyo@example.com</td>
-    </tr>
+**Ejemplo:**
+<table>
+<tr>
+<th>Encabezado 1</th>
+<th>Encabezado 2</th>
+ <th>Encabezado 3</th>
+ <th>Encabezado 4</th>
+</tr>
+<tr>
+ <td>Fila 1 Celda 1</td>
+ <td>Fila 1 Celda 2</td>
+ <td>Fila 1 Celda 3</td>
+ <td>Fila 1 Celda 4</td>
+</tr>
+
+<tr>
+<td>Fila 2 Celda 1</td>
+<td colspan=3 align="center">Fila 2 Celda 2</td>
+
+</tr>
+<tr>
+<td rowspan=3> Fila 3 Celda 1</td>
+<td> Fila 3 Celda 2</td>
+<td> Fila 3 Celda 3</td>
+<td> Fila 3 Celda 4</td>
+</tr>
+
+<tr>
+<td>Fila 4 Celda 2</td>
+<td>Fila 4 Celda 3</td>
+<td>Fila 4 Celda 4</td>
+</tr>
+<tr>
+<td>Fila 5  Celda 2</td>
+<td>Fila 5  Celda 3</td>
+<td>Fila 5  Celda 4</td>
+
+</tr>
+<tr>
+<td>Fila 5  Celda 1</td>
+<td>Fila 5  Celda 2</td>
+<td>Fila 5  Celda 3</td>
+<td>Fila 5  Celda 4</td>
+
+
+</tr>
+
+
 </table>
 
 ### 9. Imagenes
